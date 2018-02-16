@@ -1,2 +1,2 @@
 # hello-world
-im new in this hope i will learn this all stuff quickly with persistence
+hello guys i'm new to this world of coding so please help me in understandig this creative stuff. 
